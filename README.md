@@ -1,9 +1,5 @@
-# Examen Kotlin
+# Kotlin - Adopcion de Perros
 
-Desarrollo Parcial TP3 ORT Argentina iniciado el 2/11/2023.
-Fecha de entrega 9/11/2023 - 19:00 Hs.
-
-- [Examen Kotlin](#examen-kotlin)
   - [Introducción](#introducción)
   - [Requisitos y Funcionalidades](#requisitos-y-funcionalidades)
     - [Requisitos Previos](#requisitos-previos)
