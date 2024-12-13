@@ -10,7 +10,7 @@
 
 ## Introducción
 
-Bienvenido al desarrollo parcial del Trabajo Práctico 3 (TP3) de nuestra aplicación para la adopción de mascotas en el sistema operativo Android, utilizando el lenguaje de programación Kotlin y aprovechando la API pública de [Dog API](https://dog.ceo/dog-api/documentation/random) para obtener información sobre perros, incluyendo fotos, razas y subrazas.
+Bienvenido al desarrollo de nuestra aplicación para la adopción de mascotas en el sistema operativo Android, utilizando el lenguaje de programación Kotlin y aprovechando la API pública de [Dog API](https://dog.ceo/dog-api/documentation/random) para obtener información sobre perros, incluyendo fotos, razas y subrazas.
 
 En esta versión de la aplicación, nos enfocaremos en la adopción de perros. La aplicación cuenta con diversas funcionalidades, desde un listado de perros disponibles para adopción hasta la posibilidad de crear nuevas publicaciones de adopción y gestionar favoritos. Además, hemos incorporado un diseño intuitivo y fácil de usar, priorizando la experiencia del usuario.
 
